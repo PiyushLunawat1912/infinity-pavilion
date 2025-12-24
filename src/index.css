@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* index.css (or App global css) — single minimal block */
+html, body, #root {
+  margin: 0;              /* REMOVE the default browser gap that causes white strips */
+  padding: 0;
+  /* background: #F7EEDB;    Champagne background for the whole site */
+  width: 100%;
+  min-height: 100%;
+  
+}
